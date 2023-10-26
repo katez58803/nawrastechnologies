@@ -1,0 +1,314 @@
+.site-footer,.our-advantages{
+    background-color:rgb(34, 167, 140);
+    
+}
+.banner {
+    background: url(Logo-for.jpg);
+    height: 550px;
+    margin-bottom: 30px;
+    position: relative;
+    padding: 40px 0;
+    background-position: top center;
+    background-size: cover;
+    margin-top: 30px;
+    background-repeat: no-repeat;
+    
+}
+.banner:before{
+    background:url(#) ;
+   
+    margin: 100px;
+    margin-bottom: 200px;
+}
+.testimonial{
+    background: url(#);
+}
+.col-lg-5{
+    width: 70px;
+}
+.site-header-mob-a{
+    background-color: rgb(34, 167, 140);
+    width: auto;
+
+    
+}
+.logo-a{
+    width: 10px;
+}
+.site-header .enq-btn {
+    width: auto;
+    display: inline-block;
+    /* background: #3b4779; */
+    position: relative;
+   
+    z-index: 1;
+    border-radius: solid 1px;
+    background: none;
+}
+.enq-btn {
+    background-color: rgb(1, 16, 17);
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.site-header .hcontact {
+    text-align: right;
+}
+body {
+    font-family: 'open_sansregular';
+    font-size: 16px;
+    overflow-x: hidden;
+}
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+body, .entry-title a, :root .has-primary-color {
+    color: #000000;
+}
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -ms-overflow-style: scrollbar;
+    -webkit-tap-highlight-color: transparent;
+}
+.site-header .enq-btn:before {
+    height: 100%;
+    width: 5000px;
+    background: rgb(34, 167, 140);
+    position: absolute;
+    top: 0;
+    left: 100%;
+    content: "";
+    z-index: -1;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.site-header .enq-btn:after {
+    height: 100%;
+    width: 130px;
+    background: rgb(34, 167, 140);
+    position: absolute;
+    top: 0;
+    left: -50px;
+    content: "";
+    transform: skew(-48deg);
+    -webkit-transform: skew(-48deg);
+    -o-transform: skew(-48deg);
+    -ms-transform: skew(-48deg);
+    -moz-transform: skew(-48deg);
+    z-index: -1;
+}
+
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.site-header .enq-btn {
+    width: auto;
+    display: inline-block;
+    background: rgb(34, 167, 140);
+    position: absolute;
+    position: relative;
+    padding: 22px 0 22px 97px;
+    z-index: 1;
+}
+.site-header{
+    background-color: rgb(34, 167, 140);;
+    color: white;
+}
+.card{
+    width: 1px;
+    height: 1px;
+}
+.site-header .eqn-btn{
+    width: auto;
+    display: inline-block;
+    background: #20c997;
+    position: relative;
+    padding: 22px 0px 22px 97px;
+    z-index: 1;
+
+}
+.site-header .enq-btn:after {
+    height: 100%;
+    width: 130px;
+    background: rgb(255 255 255);
+    position: absolute;
+    top: 0;
+    left: -50px;
+    content: "";
+    transform: skew(-48deg);
+    -webkit-transform: skew(-48deg);
+    -o-transform: skew(-48deg);
+    -ms-transform: skew(-48deg);
+    -moz-transform: skew(-48deg);
+    
+}
+.site-header .enq-btn {
+    width: auto;
+    display: inline-block;
+    background: rgb(255 255 255);
+    position: relative;
+    padding: 22px 0px 22px 97px;
+    z-index: 1;
+}
+.site-header .enq-btn::before {
+    height: 100%;
+    width: 5000px;
+    background:  rgb(34, 167, 140);
+    position: absolute;
+    top: 0px;
+    left: 100%;
+    content: "";
+    z-index: 0;
+}
+.banner .banner-text h1 {
+    font-size: 54px;
+    color:  rgb(19, 135, 112);
+    font-family: 'open_sansextrabold';
+}
+.common-title{
+    color: rgb(27, 119, 100);
+}
+
+.site-header{
+    background-color: rgb(34, 167, 140);
+}
+.eqn-btn{
+background-color: rgb(34, 167, 140);
+}
+@keyframes slide{
+    form{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-100%);
+    }
+
+}
+.logos{
+    overflow:hidden ;
+    padding: 90px 0 ;
+    background: rgb(34, 167, 140);
+    white-space: nowrap;
+
+
+}
+.logos:hover .logo-slide{
+    animation-play-state: paused;
+
+}
+.logo-slide{
+    display: inline-block;
+    
+    animation: 5s slide infinite linear;
+
+}
+.logo-slide-a img{
+margin: 0 15px;
+
+}
+
+
+
+.logos-a{
+    overflow:hidden ;
+    padding: 70px 0 ;
+    
+    white-space: nowrap;
+    text-align: center;
+    
+
+
+}
+.logos:hover .logo-slide{
+    animation-play-state: paused;
+
+}
+.logo-slide-a{
+    display: inline-block;
+    
+    animation: 5s slide infinite linear;
+
+}
+.logo-slide-a img{
+margin: 0 15px;
+width: 140px;
+
+}
+.site-header .enq-btn:after {
+    height: 100%;
+    width: 140px;
+    background: rgba(156, 68, 68, 0);
+    position: absolute;
+    top: 0;
+    left: -50px;
+    content: "";
+    transform: skew(-48deg);
+    -webkit-transform: skew(-48deg);
+    -o-transform: skew(-48deg);
+    -ms-transform: skew(-48deg);
+    -moz-transform: skew(-48deg);
+}
+.site-header .enq-btn {
+    width: auto;
+    display: inline-block;
+     background:rgb(34, 167, 140);
+    position: relative;
+    padding: 22px 0px 22px 97px;
+    z-index: 1;
+}
+.mob-header .default-btn {
+    padding: 7px 1px;
+    margin: 0;
+    
+      
+    right: 0;
+    top: 60%;
+    
+   
+}
